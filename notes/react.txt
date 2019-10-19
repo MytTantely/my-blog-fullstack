@@ -1,0 +1,17 @@
+1 - React front-end
+- - Setting up React project
+=> create react app
+- - Creating app component
+=> HomePage.js : welcome to my page
+- - Creating blog pages
+=> Create: Home / About / Articles with routes
+- - Using react-router links
+=> Create link to access thes pages
+- - URL parameters with react-router
+=> for articles :article-name
+- - Creating and linking the articles list
+=> Display list of articles in a page
+- - Making the articles list modular
+=> create reusable component
+- - Creating a 404 page in React
+=> if article not found in 
