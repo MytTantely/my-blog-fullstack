@@ -1,10 +1,15 @@
 1 - React front-end
 - - Setting up React project
 => create react app
+
 - - Creating app component
 => HomePage.js : welcome to my page
+
 - - Creating blog pages
 => Create: Home / About / Articles with routes
+=> Creating routes to those pages
+=> Creating navBar
+
 - - Using react-router links
 => Create link to access thes pages
 - - URL parameters with react-router
@@ -15,3 +20,22 @@
 => create reusable component
 - - Creating a 404 page in React
 => if article not found in 
+
+
+==============================================================================
+------------------------------------------------------------------------------
+==============================================================================
+QUESTIONS:
+- Function component Vs Class component
+
+
+
+
+
+
+==============================================================================
+------------------------------------------------------------------------------
+==============================================================================
+LOGIN tasks:
+- find ways to block routes without LOGIN
+- OIDC / simple password
